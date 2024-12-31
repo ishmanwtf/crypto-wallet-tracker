@@ -65,3 +65,4 @@ You'll also need to obtain API keys for Etherscan and BSCscan, as well as a Tele
 ## Disclaimer
 
 This bot is provided for educational purposes only and should not be used as financial advice. The bot does not have access to your wallet.
+# GasNow
